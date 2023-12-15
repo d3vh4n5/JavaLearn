@@ -1,0 +1,32 @@
+{
+  "coord": { "lon": -58.9592, "lat": -34.1633 },
+  "weather": [
+    { "id": 804, "main": "Clouds", "description": "nubes", "icon": "04n" }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 15.54,
+    "feels_like": 13.41,
+    "temp_min": 14.58,
+    "temp_max": 16.19,
+    "pressure": 1020,
+    "humidity": 10,
+    "sea_level": 1020,
+    "grnd_level": 1018
+  },
+  "visibility": 10000,
+  "wind": { "speed": 2.3, "deg": 123, "gust": 7.89 },
+  "clouds": { "all": 99 },
+  "dt": 1701646685,
+  "sys": {
+    "type": 2,
+    "id": 2042766,
+    "country": "AR",
+    "sunrise": 1701592638,
+    "sunset": 1701644050
+  },
+  "timezone": -10800,
+  "id": 3435810,
+  "name": "Campana",
+  "cod": 200
+}
